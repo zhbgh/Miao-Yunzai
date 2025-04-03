@@ -70,8 +70,10 @@ npm run login
 ```sh
 npm run start
 ```
-## 切换trss崽
+### 切换trss崽
+```sh
 node trss
+```
 ## 致谢
 
 |                           Nickname                            | Contribution     |
